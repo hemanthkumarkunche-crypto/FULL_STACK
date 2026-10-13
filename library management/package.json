@@ -1,0 +1,11 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "Full-stack Online Library Management System (React + Express + MongoDB)",
+  "scripts": {
+    "server": "npm --prefix server start",
+    "client": "npm --prefix client run dev",
+    "seed": "npm --prefix server run seed"
+  },
+  "keywords": ["library", "react", "express", "mongodb", "circulation"]
+}
